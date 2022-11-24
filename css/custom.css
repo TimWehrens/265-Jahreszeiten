@@ -1,12 +1,24 @@
+p::first-letter {
+	font-weight: bold;
+	font-size: 2.8em;
+	color: red;
+  }
+
 body {
 	padding-top: 50px;
 	color: #959595;
+
+	;
 	}
 	
 h1, h2, h3, h4, h5, h6 {
-	color: black;
+	color: blue;
+
 	}
-	
+	p{
+		text-align: left;
+		color: blue;
+	}
 .feature {
 	background: yellowgreen linear-gradient(to bottom, greenyellow, olivedrab);
 	color: black;
